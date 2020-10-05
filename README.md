@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Jason Goncalves
+#### And I'm studying to become a Penetration Tester
 
+****
+
+- 🔭 I’m currently working on: My Python Ethical Hacking Tools called *Sneaky Snake Tools*
+- 🌱 I’m currently learning: Python!
+- 💬 Ask me about: How you can secure your Javascript Web App!
+- 📫 How to reach me: Jason.Goncalves@pm.me
+
+To find out more about me, visit my blog @ www.jasong.me
 <!--
 **jaygoncalves/jaygoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
