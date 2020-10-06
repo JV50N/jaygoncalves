@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Jason Goncalves
-#### And I'm studying to become a Penetration Tester
+#### And I'm a Software Engineer focusing on Secure Code 
 
 ****
 
