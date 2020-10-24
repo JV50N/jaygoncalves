@@ -16,7 +16,8 @@
     - 9daf3281745c2d75fc6e992ccfdedfcd
       - How I got this: I used the `history` command to find the flag. The flag was the first entry. 
 4) Flag 4 is located where cron jobs are created.
-    - 
+    - dcd5d1dcfac0578c99b7e7a6437827f3
+        - How I got this: I had to research on cronjobs. Found the command `cronttab -e`
 
       
     
